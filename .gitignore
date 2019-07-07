@@ -1,0 +1,6 @@
+*.o
+*.bin
+hello-more/build
+hello-by-makefile
+hello-world/build
+hello-world/xcode-build
