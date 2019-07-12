@@ -4,3 +4,6 @@ hello-more/build
 hello-by-makefile
 hello-world/build
 hello-world/xcode-build
+use-gtest/build
+use-gtest/publish
+use-gtest/googletest
